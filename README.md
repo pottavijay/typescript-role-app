@@ -1,4 +1,4 @@
-# React TypeScript App
+# React TypeScript Role for Large Scale FE App
 
 A minimal React application built with TypeScript and Vite.
 ![Demo ScreenShot](docs/demo.jpg) 
@@ -14,7 +14,7 @@ A minimal React application built with TypeScript and Vite.
 # Project Structure
 
 ```
-react-typescript-demo/
+typescript-role-app/
 ├── index.html         # Entry HTML
 ├── vite.config.ts     # Vite configuration with React 
 ├── src/
