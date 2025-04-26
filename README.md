@@ -1,4 +1,4 @@
-# React TypeScript Demo
+# React TypeScript App
 
 A minimal React application built with TypeScript and Vite.
 ![Demo ScreenShot](docs/demo.jpg) 
